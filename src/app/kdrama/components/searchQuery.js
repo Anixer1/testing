@@ -2,7 +2,7 @@
 
 export default async function FetchSearchTitle(title) {
 	const res = await fetch(
-		`https://consumet-api-ro77.onrender.com/movies/dramacool/${title}`,
+		`https://rayflix-api.vercel.app/movies/dramacool/${title}`,
 		{ cache: "force-cache" }
 	);
 	const data = await res.json();
