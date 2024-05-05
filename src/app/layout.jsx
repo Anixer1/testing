@@ -12,9 +12,9 @@ export const metadata = {
 	description:
 		"Online service to watch kdramas and anime for free. You can also read and download mangas for free.",
 	generator: "Next.js",
-	applicationName: "Dramalama",
-	authors: [{ name: "zephex", url: "https://github.com/real-zephex" }],
-	creator: "Zephex",
+	applicationName: "RAYFLIX",
+	authors: [{ name: "RAY", url: "https://www.facebook.com/animxer" }],
+	creator: "RAY",
 	keywords: ["Kdrama", "Anime", "Manga", "Watch Online"],
 	robots: {
 		index: true,
