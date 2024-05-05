@@ -2,7 +2,7 @@
 
 export default async function FetchSearchTitle(title) {
 	const res = await fetch(
-		`https://consumet-jade.vercel.app/movies/dramacool/${title}`,
+		`https://consumet-api-ro77.onrender.com/movies/dramacool/${title}`,
 		{ cache: "force-cache" }
 	);
 	const data = await res.json();
