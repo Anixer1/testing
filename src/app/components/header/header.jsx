@@ -14,7 +14,7 @@ export default function Header() {
 					</Link>
 				</div>
 				<div className={styles.right}>
-					<Link href="/anime">Anime</Link>
+					<Link href="/">Home</Link>
 					<Link href="/kdrama">Kdrama</Link>
 					<Link href="/manga">Manga</Link>
 				</div>
