@@ -10,7 +10,7 @@ export default function Header() {
 						href={"/"}
 						style={{ textDecoration: "none", color: "white" }}
 					>
-						<p>Dramalama</p>
+						<p>RAYFLIX</p>
 					</Link>
 				</div>
 				<div className={styles.right}>
