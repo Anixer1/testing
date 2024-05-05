@@ -8,14 +8,14 @@ import { Analytics } from "@vercel/analytics/react";
 const lexend = Lexend_Deca({ subsets: ["latin"] });
 
 export const metadata = {
-	title: "Dramalama",
+	title: "RAYFLIX",
 	description:
-		"Online service to watch kdramas and anime for free. You can also read and download mangas for free.",
+		"Online Service To Watch Kdramas And Anime For Free Without Ads .",
 	generator: "Next.js",
 	applicationName: "RAYFLIX",
 	authors: [{ name: "RAY", url: "https://www.facebook.com/animxer" }],
 	creator: "RAY",
-	keywords: ["Kdrama", "Anime", "Manga", "Watch Online"],
+	keywords: ["Kdrama", "Anime", "Watch Online"],
 	robots: {
 		index: true,
 		follow: true,
